@@ -1,0 +1,6 @@
+[package]
+name = "plato-tile-batch"
+version = "0.1.0"
+edition = "2021"
+description = "Batch tile processing — import, export, transform, and validate in bulk"
+license = "MIT"
