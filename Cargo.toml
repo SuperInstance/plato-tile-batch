@@ -2,7 +2,7 @@
 name = "plato-tile-batch"
 version = "0.1.0"
 edition = "2021"
-description = "Batch tile processing — import, export, transform, and validate in bulk"
+description = "Bulk tile processing — validate, filter, dedup, and partition in batch operations"
 license = "MIT"
 repository = "https://github.com/SuperInstance/plato-tile-batch"
 readme = "README.md"
