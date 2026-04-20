@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-tile-batch
+Version: 0.1.0
+Summary: Bulk tile processing — partition, filter, dedup
+License: MIT
+Requires-Python: >=3.8
